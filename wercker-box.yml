@@ -1,8 +1,7 @@
 name: python3-sphinx
 version: 0.0.1
-inherits: ubuntu
 type: main
-platform: ubuntu
+platform: ubuntu@12.04
 description: python3-sphinx installed on ubuntu@12.04
 keywords:
   - python3
